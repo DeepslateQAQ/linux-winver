@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/icons">
+    <file>alpine.png</file>
+    <file>arch.png</file>
+    <file>artix.png</file>
+    <file>cachyos.png</file>
+    <file>centos.png</file>
+    <file>chromeos.png</file>
+    <file>chromiumos.png</file>
+    <file>debian.png</file>
+    <file>deepin.png</file>
+    <file>endeavour.png</file>
+    <file>fedora.png</file>
+    <file>gentoo.png</file>
+    <file>kali.png</file>
+    <file>kubuntu.png</file>
+    <file>lfs.png</file>
+    <file>manjaro.png</file>
+    <file>mint.png</file>
+    <file>nixos.png</file>
+    <file>opensuse.png</file>
+    <file>postmarketos.png</file>
+    <file>raspbian.png</file>
+    <file>rhel.png</file>
+    <file>rocky.png</file>
+    <file>steamos.png</file>
+    <file>tux.png</file>
+    <file>ubuntu-mate.png</file>
+    <file>ubuntu.png</file>
+    <file>uos.png</file>
+    <file>void.png</file>
+    <file>xubuntu.png</file>
+    <file>zorin.png</file>
+  </gresource>
+</gresources>
