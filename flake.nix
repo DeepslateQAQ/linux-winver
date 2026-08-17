@@ -28,8 +28,8 @@
 
             meta = {
               description = "winver-style About dialog for Linux distributions, with a demo mode for 30 distros";
-              homepage = "https://github.com/deepslate/linux-winver";
-              license = nixpkgs.lib.licenses.mit;
+              homepage = "https://github.com/DeepslateQAQ/linux-winver";
+              license = nixpkgs.lib.licenses.gpl3Only;
               platforms = nixpkgs.lib.platforms.linux;
             };
           };
